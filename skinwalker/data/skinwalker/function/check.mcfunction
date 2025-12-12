@@ -1,0 +1,1 @@
+execute if predicate skinwalker:moved run function skinwalker:initalize_skinwalker

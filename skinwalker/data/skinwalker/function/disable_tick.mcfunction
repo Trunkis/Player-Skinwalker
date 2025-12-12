@@ -1,0 +1,1 @@
+execute as @a[scores={skinwalker.initiated=1..}] run function skinwalker:stop

@@ -1,0 +1,1 @@
+$data modify storage skinwalker:macro instance set from storage skinwalker:macro instances[{id:$(id)}]

@@ -1,0 +1,1 @@
+execute as @e[type=mannequin,scores={skinwalker.id=0..}] run function skinwalker:player_existence

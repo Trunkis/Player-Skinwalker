@@ -1,0 +1,1 @@
+scoreboard players set @s skinwalker.difficulty 0

@@ -1,0 +1,1 @@
+data modify storage skinwalker:macro instance.skinwalkers[].locations prepend from storage skinwalker:macro edit

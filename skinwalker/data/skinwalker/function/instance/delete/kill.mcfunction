@@ -1,0 +1,1 @@
+$kill $(skinwalker_uuid)
